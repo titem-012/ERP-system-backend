@@ -76,14 +76,15 @@ public class SecurityConfig {
     public CommandLineRunner initDatabase(UserRepository userRepository, PasswordEncoder passwordEncoder) {
         return args -> {
             // Find the existing admin, OR create a new one if it doesn't exist
-            User admin = userRepository.findByUsername("admin").orElse(new User());
-            
-            // Forcefully set all the correct, secure credentials
-            admin.setUsername("admin");
-            admin.setPassword(passwordEncoder.encode("admin123")); // Forces BCrypt hash
-            admin.setRole("ADMIN");
-            admin.setFullName("Main Admin");
-            admin.setAssignedStore("main");
+            User admin = userRepository.findByUsername("admin").orElseGet(() -> {
+                User newUser = new User();
+                newUser.setUsername("admin");
+                newUser.setPassword(passwordEncoder.encode("admin123")); // Forces BCrypt hash
+                newUser.setRole("ADMIN");
+                newUser.setFullName("Main Admin");
+                newUser.setAssignedStore("main");
+                return newUser;
+            });
             
             userRepository.save(admin);
             System.out.println("✅ Bulletproof Admin user (admin / admin123) secured!");

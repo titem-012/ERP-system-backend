@@ -5,11 +5,13 @@ import com.echomenswear.model.Transaction;
 import com.echomenswear.repository.TransactionRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 import java.time.LocalDateTime;
 import java.util.List;
 
 @Service
+@Transactional
 @RequiredArgsConstructor
 public class TransactionService {
     private final TransactionRepository transactionRepository;
