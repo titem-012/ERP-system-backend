@@ -1,28 +1,28 @@
-C:\Users\Asus\Downloads\Telegram Desktop\cloth-shop-frontend\cloth-shop-frontend\echomenswear-backend\src\main\java\com\echomenswear\dto\LoginRequest.java
-C:\Users\Asus\Downloads\Telegram Desktop\cloth-shop-frontend\cloth-shop-frontend\echomenswear-backend\src\main\java\com\echomenswear\controller\TransactionController.java
-C:\Users\Asus\Downloads\Telegram Desktop\cloth-shop-frontend\cloth-shop-frontend\echomenswear-backend\src\main\java\com\echomenswear\service\ProductService.java
-C:\Users\Asus\Downloads\Telegram Desktop\cloth-shop-frontend\cloth-shop-frontend\echomenswear-backend\src\main\java\com\echomenswear\config\CorsConfig.java
-C:\Users\Asus\Downloads\Telegram Desktop\cloth-shop-frontend\cloth-shop-frontend\echomenswear-backend\src\main\java\com\echomenswear\controller\UserController.java
-C:\Users\Asus\Downloads\Telegram Desktop\cloth-shop-frontend\cloth-shop-frontend\echomenswear-backend\src\main\java\com\echomenswear\repository\ProductRepository.java
-C:\Users\Asus\Downloads\Telegram Desktop\cloth-shop-frontend\cloth-shop-frontend\echomenswear-backend\src\main\java\com\echomenswear\model\enums\Role.java
-C:\Users\Asus\Downloads\Telegram Desktop\cloth-shop-frontend\cloth-shop-frontend\echomenswear-backend\src\main\java\com\echomenswear\repository\TransactionRepository.java
-C:\Users\Asus\Downloads\Telegram Desktop\cloth-shop-frontend\cloth-shop-frontend\echomenswear-backend\src\main\java\com\echomenswear\service\UserService.java
-C:\Users\Asus\Downloads\Telegram Desktop\cloth-shop-frontend\cloth-shop-frontend\echomenswear-backend\src\main\java\com\echomenswear\service\CustomUserDetailsService.java
-C:\Users\Asus\Downloads\Telegram Desktop\cloth-shop-frontend\cloth-shop-frontend\echomenswear-backend\src\main\java\com\echomenswear\dto\RegisterRequest.java
-C:\Users\Asus\Downloads\Telegram Desktop\cloth-shop-frontend\cloth-shop-frontend\echomenswear-backend\src\main\java\com\echomenswear\repository\UserRepository.java
-C:\Users\Asus\Downloads\Telegram Desktop\cloth-shop-frontend\cloth-shop-frontend\echomenswear-backend\src\main\java\com\echomenswear\model\Transaction.java
-C:\Users\Asus\Downloads\Telegram Desktop\cloth-shop-frontend\cloth-shop-frontend\echomenswear-backend\src\main\java\com\echomenswear\dto\AuthResponse.java
-C:\Users\Asus\Downloads\Telegram Desktop\cloth-shop-frontend\cloth-shop-frontend\echomenswear-backend\src\main\java\com\echomenswear\controller\AuthController.java
-C:\Users\Asus\Downloads\Telegram Desktop\cloth-shop-frontend\cloth-shop-frontend\echomenswear-backend\src\main\java\com\echomenswear\dto\TransactionRequest.java
-C:\Users\Asus\Downloads\Telegram Desktop\cloth-shop-frontend\cloth-shop-frontend\echomenswear-backend\src\main\java\com\echomenswear\config\JwtService.java
-C:\Users\Asus\Downloads\Telegram Desktop\cloth-shop-frontend\cloth-shop-frontend\echomenswear-backend\src\main\java\com\echomenswear\EchoMenswearApplication.java
-C:\Users\Asus\Downloads\Telegram Desktop\cloth-shop-frontend\cloth-shop-frontend\echomenswear-backend\src\main\java\com\echomenswear\service\EmailService.java
-C:\Users\Asus\Downloads\Telegram Desktop\cloth-shop-frontend\cloth-shop-frontend\echomenswear-backend\src\main\java\com\echomenswear\model\Product.java
-C:\Users\Asus\Downloads\Telegram Desktop\cloth-shop-frontend\cloth-shop-frontend\echomenswear-backend\src\main\java\com\echomenswear\model\enums\TransactionType.java
-C:\Users\Asus\Downloads\Telegram Desktop\cloth-shop-frontend\cloth-shop-frontend\echomenswear-backend\src\main\java\com\echomenswear\config\SecurityConfig.java
-C:\Users\Asus\Downloads\Telegram Desktop\cloth-shop-frontend\cloth-shop-frontend\echomenswear-backend\src\main\java\com\echomenswear\controller\ProductController.java
-C:\Users\Asus\Downloads\Telegram Desktop\cloth-shop-frontend\cloth-shop-frontend\echomenswear-backend\src\main\java\com\echomenswear\model\User.java
-C:\Users\Asus\Downloads\Telegram Desktop\cloth-shop-frontend\cloth-shop-frontend\echomenswear-backend\src\main\java\com\echomenswear\config\JwtAuthenticationFilter.java
-C:\Users\Asus\Downloads\Telegram Desktop\cloth-shop-frontend\cloth-shop-frontend\echomenswear-backend\src\main\java\com\echomenswear\dto\ProductRequest.java
-C:\Users\Asus\Downloads\Telegram Desktop\cloth-shop-frontend\cloth-shop-frontend\echomenswear-backend\src\main\java\com\echomenswear\dto\PasswordRequests.java
-C:\Users\Asus\Downloads\Telegram Desktop\cloth-shop-frontend\cloth-shop-frontend\echomenswear-backend\src\main\java\com\echomenswear\service\TransactionService.java
+C:\Users\USER\Documents\Projects\ERP-system\ERP-system-backend\src\main\java\com\echomenswear\model\Transaction.java
+C:\Users\USER\Documents\Projects\ERP-system\ERP-system-backend\src\main\java\com\echomenswear\config\CorsConfig.java
+C:\Users\USER\Documents\Projects\ERP-system\ERP-system-backend\src\main\java\com\echomenswear\controller\ProductController.java
+C:\Users\USER\Documents\Projects\ERP-system\ERP-system-backend\src\main\java\com\echomenswear\dto\AuthResponse.java
+C:\Users\USER\Documents\Projects\ERP-system\ERP-system-backend\src\main\java\com\echomenswear\controller\UserController.java
+C:\Users\USER\Documents\Projects\ERP-system\ERP-system-backend\src\main\java\com\echomenswear\dto\PasswordRequests.java
+C:\Users\USER\Documents\Projects\ERP-system\ERP-system-backend\src\main\java\com\echomenswear\repository\UserRepository.java
+C:\Users\USER\Documents\Projects\ERP-system\ERP-system-backend\src\main\java\com\echomenswear\config\JwtAuthenticationFilter.java
+C:\Users\USER\Documents\Projects\ERP-system\ERP-system-backend\src\main\java\com\echomenswear\dto\RegisterRequest.java
+C:\Users\USER\Documents\Projects\ERP-system\ERP-system-backend\src\main\java\com\echomenswear\repository\TransactionRepository.java
+C:\Users\USER\Documents\Projects\ERP-system\ERP-system-backend\src\main\java\com\echomenswear\dto\ProductRequest.java
+C:\Users\USER\Documents\Projects\ERP-system\ERP-system-backend\src\main\java\com\echomenswear\model\Product.java
+C:\Users\USER\Documents\Projects\ERP-system\ERP-system-backend\src\main\java\com\echomenswear\model\enums\TransactionType.java
+C:\Users\USER\Documents\Projects\ERP-system\ERP-system-backend\src\main\java\com\echomenswear\model\User.java
+C:\Users\USER\Documents\Projects\ERP-system\ERP-system-backend\src\main\java\com\echomenswear\service\ProductService.java
+C:\Users\USER\Documents\Projects\ERP-system\ERP-system-backend\src\main\java\com\echomenswear\model\enums\Role.java
+C:\Users\USER\Documents\Projects\ERP-system\ERP-system-backend\src\main\java\com\echomenswear\config\SecurityConfig.java
+C:\Users\USER\Documents\Projects\ERP-system\ERP-system-backend\src\main\java\com\echomenswear\service\UserService.java
+C:\Users\USER\Documents\Projects\ERP-system\ERP-system-backend\src\main\java\com\echomenswear\service\CustomUserDetailsService.java
+C:\Users\USER\Documents\Projects\ERP-system\ERP-system-backend\src\main\java\com\echomenswear\dto\LoginRequest.java
+C:\Users\USER\Documents\Projects\ERP-system\ERP-system-backend\src\main\java\com\echomenswear\repository\ProductRepository.java
+C:\Users\USER\Documents\Projects\ERP-system\ERP-system-backend\src\main\java\com\echomenswear\service\TransactionService.java
+C:\Users\USER\Documents\Projects\ERP-system\ERP-system-backend\src\main\java\com\echomenswear\dto\TransactionRequest.java
+C:\Users\USER\Documents\Projects\ERP-system\ERP-system-backend\src\main\java\com\echomenswear\service\EmailService.java
+C:\Users\USER\Documents\Projects\ERP-system\ERP-system-backend\src\main\java\com\echomenswear\controller\AuthController.java
+C:\Users\USER\Documents\Projects\ERP-system\ERP-system-backend\src\main\java\com\echomenswear\config\JwtService.java
+C:\Users\USER\Documents\Projects\ERP-system\ERP-system-backend\src\main\java\com\echomenswear\EchoMenswearApplication.java
+C:\Users\USER\Documents\Projects\ERP-system\ERP-system-backend\src\main\java\com\echomenswear\controller\TransactionController.java
