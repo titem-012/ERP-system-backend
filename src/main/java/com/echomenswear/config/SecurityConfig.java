@@ -35,11 +35,14 @@ public class SecurityConfig {
             .cors(Customizer.withDefaults())
             .authorizeHttpRequests(auth -> auth
                 .requestMatchers(
+                    "/",
+                    "/health",
+                    "/api/health",
                     "/api/auth/login", 
                     "/api/auth/register", 
                     "/api/auth/forgot-password", 
                     "/api/auth/reset-password",
-                    "/api/notifications/stream" 
+                    "/api/notifications/stream"
                 ).permitAll()
                 .requestMatchers("/api/public/**", "/error").permitAll()
                 .anyRequest().authenticated()
