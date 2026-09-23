@@ -9,7 +9,7 @@ import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
-
+@CrossOrigin(origins = "https://erp-system-uxm2.vercel.app")
 @RestController
 @RequestMapping("/api/users")
 @RequiredArgsConstructor
