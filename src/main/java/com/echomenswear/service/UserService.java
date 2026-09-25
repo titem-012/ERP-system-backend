@@ -78,9 +78,9 @@ public class UserService {
 
     public AuthResponse register(RegisterRequest request) {
         boolean isFirst = userRepository.count() == 0;
-        if (!isFirst) {
-            throw new RuntimeException("Registration is closed. Please contact the admin.");
-        }
+       // if (!isFirst) {
+           // throw new RuntimeException("Registration is closed. Please contact the admin.");
+       // }
 
         User user = new User();
         user.setUsername(request.getUsername());
